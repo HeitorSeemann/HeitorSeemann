@@ -1,6 +1,6 @@
 # Hi there, I'm Heitor! 👋
 
-## 🚀 Senior QA Engineer | 15+ Years in IT & Financial Systems
+## 🚀 Senior QA Engineer
 
 An experienced IT professional with **15+ years of experience** bridging the gap between robust software development and high-impact Quality Assurance. I specialize in promoting strong quality cultures, mentoring QA engineers, and building resilient test automation frameworks for complex enterprise environments.
 
